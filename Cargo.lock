@@ -1,0 +1,14 @@
+[[package]]
+name = "linkedstack"
+version = "0.1.0"
+dependencies = [
+ "tool 0.1.5 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "tool"
+version = "0.1.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum tool 0.1.5 (registry+https://github.com/rust-lang/crates.io-index)" = "cfa4fb35c4fc7ec79e3573105de87b4f6c71d8800d4161070b3950e5982cf294"

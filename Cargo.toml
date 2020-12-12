@@ -1,0 +1,8 @@
+[package]
+name = "linkedstack"
+version = "0.1.0"
+authors = ["ray33ee <30669752+ray33ee@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+tool="0.1.0"
